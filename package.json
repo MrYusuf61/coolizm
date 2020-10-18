@@ -1,0 +1,18 @@
+{
+  "name": "deneme",
+  "version": "1.0.3",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "yusuf",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "wio.db": "^4.0.9"
+  }
+}
